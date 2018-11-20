@@ -1,0 +1,8 @@
+# Ignore mirrored data
+/public/installs
+/public/packages
+/public/tarballs
+
+# Ignore logs and tmp files
+/log/*.log
+/tmp
